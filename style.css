@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.logo {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+.logo img{
+    width: 100px;
+}
+.form-floating input:focus {
+    box-shadow: none;
+}
